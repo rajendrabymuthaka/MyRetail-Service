@@ -1,0 +1,4 @@
+io\myretail\service\ProductNameServiceTest.class
+io\myretail\service\ProductServiceTest.class
+io\myretail\MyRetailServiceApplicationTests.class
+io\myretail\controller\ProductControllerTest.class
