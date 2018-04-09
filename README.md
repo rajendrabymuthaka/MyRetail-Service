@@ -28,12 +28,12 @@ Solution
 MyRetail RESTful webservice is implemented basically to provide following 2 services.
 1.	Provides product information (Name, Price and Currency) for a valid product ID
 2.	Updates price information for a valid Product ID.
-These services are implemented using HTTP GET and PUT methods respectively.  In order to get Product name, this service also makes REST web service call to MyRetail service. This service is built with Spring Boot with Maven dependency and Mockito for unit testing.
+These services are implemented using HTTP GET and PUT methods respectively.  In order to get Product name, this service also makes REST web service call to MyRetail service. This service is built with Spring Boot with Maven dependency, Spring Data JPA and Mockito for unit testing.
 
 Prerequisites:
 -------------
 1.	Eclipse Java EE IDE with Spring Tool Suite Plugin
-2.	Spring Data JPA
+2.	Maven
 3.	MySQL data store
 4.	Postman client (Google Chrome browser plugin) for testing.
 
